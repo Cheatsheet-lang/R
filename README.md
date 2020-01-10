@@ -7,12 +7,12 @@ R-Cheatsheet
 
 ### Installing packages
 ```python
-install.packages('<package_name>')
+install.packages('package_name')
 ```
 
 ### Loading Package
 ```python
-library(<package_name>)         #notice - no quotes
+library(package_name)         #notice - no quotes
 ```
 
 
