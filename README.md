@@ -91,9 +91,26 @@ while (i < 10){
 ### Creating Vector
 
 ```python
-c(2, 4, 6)      # 2, 4, 6
+v <- c(2, 4, 6)      # 2, 4, 6
 ```
 
 ```python
 2:6             # 2, 3, 4, 5, 6
+```
+
+### Operations
+- Length
+```python
+length(v)
+```
+- Indexing
+```python
+v[1:3]
+```
+- Boolean
+```python
+all(v)
+```
+```python
+any(v)
 ```
